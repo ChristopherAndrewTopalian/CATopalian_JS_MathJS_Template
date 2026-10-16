@@ -3,6 +3,10 @@ A JavaScript Math Engine Template that uses the Math.js library that is very inn
 
 ---
 
+![001](src/media/textures/logos/001.jpg)
+
+---
+
 Use App: https://christopherandrewtopalian.github.io/CATopalian_JS_MathJS_Template/CATopalian_JS_MathJS_Template.html
 
 ---

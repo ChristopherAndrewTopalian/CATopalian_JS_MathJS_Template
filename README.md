@@ -3,18 +3,6 @@ A JavaScript Math Engine Template that uses the Math.js library that is very inn
 
 ---
 
-![screenshot_001](src/media/textures/screenshots/screenshot_001.PNG)  
-
-USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Calculation_Engine/CATopalian_JavaScript_Calculation_Engine.html
-
-![screenshot_002](src/media/textures/screenshots/screenshot_002.PNG)
-
----
-
-CODE: https://github.com/ChristopherAndrewTopalian/Topalian_JavaScript_Calculation_Engine
-
----
-
 ### How to Download this App
 1. **Click** the green **Code Button** on this github page
 2. Choose **Download ZIP**

@@ -1,5 +1,5 @@
-# CATopalian JavaScript Calculation Engine
-A JavaScript calculation engine that is easy to comprehend and well organized
+# CATopalian JS MathJS Template
+A JavaScript Math Engine Template that uses the Math.js library that is very innovative.
 
 ---
 

@@ -14,7 +14,7 @@ function whenLoaded()
     let strResult = math.format(result, { fraction: 'ratio' });
 
     // Combine them into a full equation string
-    let equationText = `${strA} + ${strB} = ${strResult}`;
+    let equationText = strA + ' + ' + strB + ' = ' + strResult;
 
     let resultDiv = ce('div');
     resultDiv.textContent = equationText;
@@ -44,6 +44,10 @@ function whenLoaded()
 */
 
 //----//
+
+/*
+// let equationText = `${strA} + ${strB} = ${strResult}`;
+*/
 
 // Dedicated to God the Father
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
